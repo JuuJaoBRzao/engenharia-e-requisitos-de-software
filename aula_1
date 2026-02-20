@@ -1,0 +1,9 @@
+software: 
+-conjunto de instruções
+- dados
+- documentos
+- *materialidade
+- forma de fabricação: software não tem matéria prima, é criado do 0
+- *taxa de defeitos
+
+*Em detrimento da materialidade, os defeitos precisam permanecer, porém em uma taxa que afete o mínimo de pessoas possível
