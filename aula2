@@ -1,0 +1,11 @@
+Para projetar um software, os passos necessários são:
+
+Comunicação: parte em que é pensado as características e requisitos para fazer o software
+Planejamento: planejar o custo e o tempo e como será feito. Ter um modelo/protótipo para entender o que o cliente quer no software  
+Projeto: definir o que realmente será feito. UML - Unified Modeling Language
+Construção: programação e criação do código do software e teste após terminar
+Entrega: implantação e manutenção do software e recebimento da documentação dele
+
+Tudo isso engloba o gerenciamento do teste de qualidade desse software
+
+Metodologia ou Ciclo de Vida do desenvolvimento de software
